@@ -5,4 +5,5 @@ export class CreateStudentDto {
     NombreCompleto: string;
     Carrera: string;
     Nacimiento: string;
+    
     }
